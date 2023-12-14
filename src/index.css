@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@100;200;300;400;500;600;700;800;900&family=Heebo:wght@100;200;300;400;500;600;700;800;900&family=Lato:ital,wght@0,400;1,700&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Noto+Sans:wght@100;200;300;400;500;600;800;900&family=Open+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&family=Rubik:wght@300;400;500;600;700;800;900&family=Tenor+Sans&display=swap');
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Heebo",sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.container{
+  width: 1140px;
+  margin: 0 auto;
+}
+a{
+  text-decoration: none;
+}
+button{
+  cursor: pointer;
+  transition: 2s;
+  border: none;
+}
+
